@@ -1,6 +1,6 @@
 ---
 applications:
-- name: kotlinredis
-  memory: 512M
-  host: kotlinredis
+- name: kotlin-redis
+  memory: 1G
+  host: kotlin-redis
   path: target/kotlin-redis-0.0.1-SNAPSHOT.jar
